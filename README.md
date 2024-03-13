@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Expense Tracker](https://github.com/Namukuru/Tracker.git)
 
-- 🌱 I’m currently learning **Django, Dart, Flutter, Python, HTML5, CSS3, JavaScript, C, C++, Java, MySql, PostgresSQL.**
+- 🌱 I’m currently learning **Django, Dart, Flutter, Python, HTML5, CSS3, JavaScript.**
 
 - 🤝 I’m looking for help with [Expense Tracker](https://github.com/Namukuru/Tracker.git)
 
