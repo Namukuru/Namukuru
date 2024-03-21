@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=namukuru" alt="namukuru" /></a> </p>
 
-- 🔭 I’m currently working on [Expense Tracker]((https://github.com/Namukuru/ExpenseTracking.git))
+- 🔭 I’m currently working on [Expense Tracker](https://github.com/Namukuru/Tracker.git)
 
-- 🌱 I’m currently learning **Django, Dart, Flutter, Python, HTML5, CSS3, JavaScript.**
+- 🌱 I’m currently learning **Django, Dart, Flutter, Python, HTML5, CSS3, JavaScript, C, C++, Java, MySql, PostgresSQL.**
 
-- 🤝 I’m looking for help with [Expense Tracker]((https://github.com/Namukuru/ExpenseTracking.git))
+- 🤝 I’m looking for help with [Expense Tracker](https://github.com/Namukuru/Tracker.git)
 
 - 💬 Ask me about **Anything relating to Django, Flutter and React.**
 
